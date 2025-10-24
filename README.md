@@ -28,6 +28,7 @@
 | [anduinos-iso-builder-respin-gnome-shell](https://github.com/samwhelp/anduinos-iso-builder-collection/tree/respin-gnome-shell) |
 | [anduinos-iso-builder-respin-kde-plasma](https://github.com/samwhelp/anduinos-iso-builder-collection/tree/respin-kde-plasma) |
 | [anduinos-iso-builder-respin-xfce](https://github.com/samwhelp/anduinos-iso-builder-collection/tree/respin-xfce) |
+| [anduinos-iso-builder-respin-lxqt](https://github.com/samwhelp/anduinos-iso-builder-collection/tree/respin-lxqt) |
 | [anduinos-iso-builder-respin-mate](https://github.com/samwhelp/anduinos-iso-builder-collection/tree/respin-mate) |
 | [anduinos-iso-builder-respin-cinnamon](https://github.com/samwhelp/anduinos-iso-builder-collection/tree/respin-cinnamon) |
 | [anduinos-iso-builder-respin-budgie](https://github.com/samwhelp/anduinos-iso-builder-collection/tree/respin-budgie) |
